@@ -1,18 +1,21 @@
 /*-----------------------google fonts */
 
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 /*-----------------------universal styling */
 
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
 
 /*-----------------------colours */
 
 #home {
-    background-color: #DBDCDE;
+    background-color: #BFB298;
     color: #773815;
 }
 
-.opening-times,
-.about {
+.opening-times {
     background-color: #BFB298;
 }
 
@@ -24,3 +27,9 @@
     background-size: cover;
 }
 
+/*-----------------------home */
+
+#home {
+    position: relative;
+    margin-top: 96px;
+}
