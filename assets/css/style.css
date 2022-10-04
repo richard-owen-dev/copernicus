@@ -1,0 +1,20 @@
+/*-----------------------google fonts */
+
+
+/*-----------------------universal styling */
+
+
+/*-----------------------colours */
+
+#home {
+    background-color: #DBDCDE;
+}
+
+/*-----------------------images */
+
+.home {
+    background-image: url(../images/inside-restaurant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
