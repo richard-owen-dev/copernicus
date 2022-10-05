@@ -10,6 +10,11 @@ body {
 
 /*-----------------------colours */
 
+.nav,
+.navbar {
+    background-color: #BFB298;
+}
+
 #home {
     background-color: #BFB298;
     color: #773815;
@@ -27,9 +32,10 @@ body {
     background-size: cover;
 }
 
+/*-----------------------nav */
+
+
+
 /*-----------------------home */
 
-#home {
-    position: relative;
-    margin-top: 96px;
-}
+
