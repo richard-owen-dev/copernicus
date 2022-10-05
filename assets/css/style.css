@@ -10,6 +10,11 @@ body {
 
 /*-----------------------colours */
 
+.header {
+    background-color: #BFB298;
+    color: #773815;
+}
+
 .nav,
 .navbar {
     background-color: #BFB298;
