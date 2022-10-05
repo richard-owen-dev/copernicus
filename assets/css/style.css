@@ -37,10 +37,13 @@ body {
     background-size: cover;
 }
 
+
 /*-----------------------nav */
 
 
 
 /*-----------------------home */
 
-
+.opening-times {
+    margin-top: 15px;
+}
