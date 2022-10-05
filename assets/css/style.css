@@ -40,8 +40,11 @@ body {
 /*-----------------------header */
 
 .restaurant-name {
-    margin: auto;
-    padding: 15px 0 0 0;
+    padding: 15px 0 0 15px;
+}
+
+.restaurant-name h1 {
+    text-align: center;
 }
 
 .logo img {
