@@ -44,6 +44,7 @@ a:hover {
 .home {
     background-image: url(../images/inside-restaurant.jpg);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 
