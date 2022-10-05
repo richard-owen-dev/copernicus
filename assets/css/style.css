@@ -39,6 +39,18 @@ a:hover {
     background-color: #BFB298;
 }
 
+.eat h1 {
+    background-color: #DBDCDE;
+}
+
+.starters, 
+.mains, 
+.desserts {
+    background-color: #DBDCDE;
+}
+
+
+
 /*-----------------------images */
 
 .home {
