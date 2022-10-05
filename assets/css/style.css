@@ -62,6 +62,8 @@ a:hover {
     background-size: cover;
 }
 
+
+
 /*-----------------------header */
 
 .restaurant-name {
@@ -89,4 +91,12 @@ a:hover {
 
 .eat {
     text-align: center;
+}
+
+.starters, 
+.mains, 
+.desserts {
+    min-height: 340px;
+    max-height: 350px;
+    margin-bottom: 15px;
 }
