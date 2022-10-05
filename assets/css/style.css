@@ -37,6 +37,16 @@ body {
     background-size: cover;
 }
 
+/*-----------------------header */
+
+.restaurant-name {
+    margin: auto;
+    padding: 15px 0 0 0;
+}
+
+.logo img {
+    max-height: 120px;
+}
 
 /*-----------------------nav */
 
