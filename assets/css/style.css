@@ -41,11 +41,9 @@ body {
 
 .restaurant-name {
     padding: 5px 0 0 15px;
-}
-
-.restaurant-name h1 {
     text-align: center;
 }
+
 
 .logo img {
     max-height: 120px;
