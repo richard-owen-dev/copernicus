@@ -55,6 +55,15 @@ a:hover {
     color: #DBDCDE;
 }
 
+.drinks h1 {
+    background-color: rgba(38, 36, 22, 0.5);
+}
+
+.soft-drinks,
+.hot-drinks,
+.alcohol {
+    background-color: rgba(38, 36, 22, 0.5);
+}
 
 /*-----------------------images */
 
