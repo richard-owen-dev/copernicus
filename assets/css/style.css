@@ -65,7 +65,7 @@ a:hover {
     background-size: cover;
 }
 
-.drinks {
+#drinks {
     background-image: url(../images/drinks.jpg);
     background-repeat: no-repeat;
     background-position: center;
