@@ -120,6 +120,9 @@ a:hover {
 
 .eat {
     text-align: center;
+}
+
+.eat h1    {
     margin-bottom: 15px;
 }
 
@@ -135,6 +138,9 @@ a:hover {
 
 .drinks {
     text-align: center;
+}
+
+.drinks h1 {
     margin-bottom: 15px;
 }
 
