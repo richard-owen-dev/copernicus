@@ -141,3 +141,9 @@ a:hover {
     margin-bottom: 15px;
     padding-top: 15px;
 }
+
+/*-----------------------address */
+
+.address {
+    min-height: 172.8px;
+}
