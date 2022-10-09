@@ -75,6 +75,11 @@ a:hover {
     color: #605C37;
 }
 
+.reviews {
+    background-color: #BFB298;
+    color: #773815;
+}
+
 /*-----------------------images */
 
 .home {
@@ -155,7 +160,15 @@ a:hover {
 
 /*-----------------------address */
 
+.visit {
+    text-align: center;
+}
+
+.visit h1 {
+    margin-bottom: 15px;
+}
+
 .address {
-    min-height: 172.8px;
+    min-height: 195px;
     margin-bottom: 15px;
 }
