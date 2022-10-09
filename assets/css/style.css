@@ -36,7 +36,7 @@ a:hover {
     color: #773815; 
 }
 
-.eat h1 {
+.eat h2 {
     background-color: #DBDCDE;
     color: #605C37;
 }
@@ -52,7 +52,7 @@ a:hover {
     color: #DBDCDE;
 }
 
-.drinks h1 {
+.drinks h2 {
     background-color: rgba(38, 36, 22, 0.5);
 }
 
@@ -62,7 +62,7 @@ a:hover {
     background-color: rgba(38, 36, 22, 0.5);
 }
 
-.visit h1 {
+.visit h2 {
     background-color: #DBDCDE;
     color: #605C37;
 }
@@ -134,7 +134,7 @@ footer {
     text-align: center;
 }
 
-.eat h1    {
+.eat h2    {
     margin-bottom: 15px;
 }
 
@@ -152,7 +152,7 @@ footer {
     text-align: center;
 }
 
-.drinks h1 {
+.drinks h2 {
     margin-bottom: 15px;
 }
 
@@ -174,7 +174,7 @@ footer {
     text-align: center;
 }
 
-.visit h1 {
+.visit h2 {
     margin-bottom: 15px;
 }
 
