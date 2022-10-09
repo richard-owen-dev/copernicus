@@ -30,13 +30,10 @@ a:hover {
     background-color: #BFB298;
 }
 
-#home {
-    background-color: #BFB298;
-    color: #773815;
-}
-
+.about,
 .opening-times {
     background-color: #BFB298;
+    color: #773815;
 }
 
 .eat h1 {
