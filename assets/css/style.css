@@ -14,11 +14,11 @@ a {
     font-weight: 700;
 }
 
+/*-----------------------colours */
+
 a:hover {
     color: #DBDCDE;
 }
-
-/*-----------------------colours */
 
 .header {
     background-color: #BFB298;
@@ -32,8 +32,8 @@ a:hover {
 
 .about,
 .opening-times {
-    background-color: #BFB298;
-    color: #773815;
+    background-color: rgba(191, 178, 152, 0.5);
+    color: #773815; 
 }
 
 .eat h1 {
