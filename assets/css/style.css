@@ -76,8 +76,8 @@ a:hover {
 }
 
 .reviews {
-    background-color: #BFB298;
-    color: #773815;
+    background-color: rgba(191, 178, 152, 0.5);
+    color: #773815; 
 }
 
 /*-----------------------images */
@@ -96,7 +96,12 @@ a:hover {
     background-size: cover;
 }
 
-
+#reviews {
+    background-image: url(../images/dumplings.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 /*-----------------------header */
 
@@ -172,3 +177,14 @@ a:hover {
     min-height: 195px;
     margin-bottom: 15px;
 }
+
+/*-----------------------reviews */
+
+.reviews {
+    text-align: center;
+}
+
+.reviews h2 {
+    margin-bottom: 15px;
+}
+
