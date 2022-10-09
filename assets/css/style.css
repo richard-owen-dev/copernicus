@@ -152,12 +152,15 @@ a:hover {
 }
 
 .soft-drinks,
-.hot-drinks,
-.alcohol {
+.hot-drinks {
     min-height: 340px;
     max-height: 350px;
     margin-bottom: 15px;
     padding-top: 15px;
+}
+
+.alcohol {
+   padding-top: 15px;
 }
 
 /*-----------------------address */
