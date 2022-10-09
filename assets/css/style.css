@@ -82,6 +82,10 @@ footer {
     color: #605C37;
 }
 
+.external-links a:hover {
+    color: #773815;
+}
+
 /*-----------------------images */
 
 .home {
@@ -193,3 +197,12 @@ footer {
     margin-bottom: 15px;
 }
 
+/*-----------------------footer */
+
+footer {
+    text-align: center;
+}
+
+.external-links a:hover {
+    text-decoration: none;
+}
