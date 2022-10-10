@@ -269,3 +269,9 @@ footer {
 .external-links a:hover {
     text-decoration: none;
 }
+
+.registered-address,
+.email,
+.external-links {
+    padding: 1rem 1rem 1rem 1rem;
+}
