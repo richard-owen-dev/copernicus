@@ -82,6 +82,11 @@ a:hover {
     color: #773815; 
 }
 
+.reviews-heading {
+    background-color: rgba(191, 178, 152, 0.8);
+    color: #773815;
+}
+
 footer {
     background-color: #DBDCDE;
     color: #605C37;
@@ -140,7 +145,23 @@ footer {
 }
 
 .opening-times {
-    margin-top: 15px;
+    margin: 3rem 0 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.opening-times h2 {
+    font-size: large;
+}
+
+.opening-times p {
+    font-size: x-small;
+    font-weight: 600;
+}
+
+.about {
+    margin: 3em 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
+    text-align: center;
 }
 
 /*-----------------------eat */
@@ -153,19 +174,20 @@ footer {
     text-align: center;
 }
 
-.eat h2    {
-    margin-bottom: 15px;
+.eat h2 {
+    margin-bottom: 1.75em;
+    padding: 1em 1em 1em 1em;
 }
 
 .starters, 
-.mains, {
-    min-height: 340px;
-    max-height: 350px;
-    margin-bottom: 15px;
+.mains {
+    margin: 0 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
 }
 
 .desserts {
-    margin-bottom: 15px;
+    margin: 0 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
 }
 
 /*-----------------------drinks */
@@ -179,19 +201,19 @@ footer {
 }
 
 .drinks h2 {
-    margin-bottom: 15px;
+    margin-bottom: 1.75em;
+    padding: 1em 1em 1em 1em;
 }
 
 .soft-drinks,
 .hot-drinks {
-    min-height: 340px;
-    max-height: 350px;
-    margin-bottom: 15px;
-    padding-top: 15px;
+    margin: 0 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
 }
 
 .alcohol {
-   padding-top: 15px;
+    margin: 0 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
 }
 
 /*-----------------------address */
@@ -205,26 +227,37 @@ footer {
 }
 
 .visit h2 {
-    margin-bottom: 15px;
+    margin-bottom: 1.75em;
+    padding: 1em 1em 1em 1em;
 }
 
 .address {
-    min-height: 195px;
-    margin-bottom: 15px;
+    margin: 0 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
+}
+
+.map {
+    margin: 0 2em 3em 2em;
 }
 
 /*-----------------------reviews */
 
-#reviews > div {
-    min-height: 90vh;
-}
-
-.reviews {
+#reviews {
     text-align: center;
 }
 
-.reviews h2 {
-    margin-bottom: 15px;
+#reviews > div {
+    min-height: 80vh;
+}
+
+.reviews {
+    margin: 8em 2em 3em 2em;
+    padding: 1em 1em 1em 1em;
+}
+
+.reviews-heading {
+    margin-bottom: 1.75em;
+    padding: 1em 1em 1em 1em;
 }
 
 /*-----------------------footer */
