@@ -275,3 +275,13 @@ footer {
 .external-links {
     padding: 1rem 1rem 1rem 1rem;
 }
+
+.registered-address h3,
+.email h3 {
+    font-size: medium;
+}
+
+.registered-address p,
+.email p {
+    font-size: small;
+}
