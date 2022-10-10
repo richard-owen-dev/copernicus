@@ -135,11 +135,19 @@ footer {
 
 /*-----------------------home */
 
+#home > div {
+    min-height: 90vh;
+}
+
 .opening-times {
     margin-top: 15px;
 }
 
 /*-----------------------eat */
+
+#eat {
+    min-height: 90vh;
+}
 
 .eat {
     text-align: center;
@@ -161,6 +169,10 @@ footer {
 }
 
 /*-----------------------drinks */
+
+#drinks > div {
+    min-height: 90vh;
+}
 
 .drinks {
     text-align: center;
@@ -184,7 +196,11 @@ footer {
 
 /*-----------------------address */
 
-.visit {
+#visit > div {
+    min-height: 50vh;
+}
+
+.visit  {
     text-align: center;
 }
 
@@ -198,6 +214,10 @@ footer {
 }
 
 /*-----------------------reviews */
+
+#reviews > div {
+    min-height: 90vh;
+}
 
 .reviews {
     text-align: center;
