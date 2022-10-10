@@ -4,6 +4,10 @@
 
 /*-----------------------universal styling */
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Heebo', sans-serif;
     font-weight: 500;
@@ -13,6 +17,7 @@ a {
     color: #605C37;
     font-weight: 700;
 }
+
 
 /*-----------------------colours */
 
@@ -143,10 +148,13 @@ footer {
 }
 
 .starters, 
-.mains, 
-.desserts {
+.mains, {
     min-height: 340px;
     max-height: 350px;
+    margin-bottom: 15px;
+}
+
+.desserts {
     margin-bottom: 15px;
 }
 
