@@ -136,8 +136,8 @@ footer {
 
 .navbar {
     list-style: none;
-    position: sticky;
 }
+
 
 /*-----------------------home */
 
@@ -168,6 +168,10 @@ footer {
 /*-----------------------eat */
 
 #eat {
+    padding-top: 30px;
+}
+
+#eat > div {
     min-height: 90vh;
 }
 
@@ -192,6 +196,10 @@ footer {
 }
 
 /*-----------------------drinks */
+
+#drinks {
+    padding-top: 30px;
+}
 
 #drinks > div {
     min-height: 90vh;
@@ -219,6 +227,10 @@ footer {
 
 /*-----------------------address */
 
+#visit {
+    padding-top: 30px;
+}
+
 #visit > div {
     min-height: 50vh;
 }
@@ -245,6 +257,7 @@ footer {
 
 #reviews {
     text-align: center;
+    padding-top: 35px;
 }
 
 #reviews > div {
