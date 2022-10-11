@@ -135,7 +135,8 @@ footer {
 /*-----------------------nav */
 
 .navbar {
-    list-style: none
+    list-style: none;
+    position: sticky;
 }
 
 /*-----------------------home */
