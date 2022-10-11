@@ -228,6 +228,7 @@ footer {
 /*-----------------------address */
 
 #visit {
+    text-align: center;
     padding-top: 30px;
 }
 
@@ -236,7 +237,7 @@ footer {
 }
 
 .visit  {
-    text-align: center;
+    
 }
 
 .visit h2 {
