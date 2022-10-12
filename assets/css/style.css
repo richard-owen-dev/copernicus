@@ -247,8 +247,9 @@ footer {
     padding: 1em 1em 1em 1em;
 }
 
-.map {
-    margin: 0 0 3em 0;
+
+iframe {
+    padding: 0 2em 3em 2em;
 }
 
 /*-----------------------reviews */
@@ -328,7 +329,6 @@ footer {
     .hot-drinks {
         margin: 0 2em 3em 1em;
     }
-
 
     .medium-padding-left {
         padding-left: 0;
