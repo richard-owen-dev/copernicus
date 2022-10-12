@@ -303,9 +303,20 @@ footer {
 
 @media only screen and (min-width: 768px) {
     
+    .opening-times p {
+        font-size: medium;
+    }
+
+    .opening-times {
+        min-height: 341.59px;
+    }
+
     .about {
-        min-height: 25vh;
-        padding: 4em 3em 4em 3em;
+        min-height: 341.59px;
+    }
+
+    .about p {
+        padding: 7em 1em;
     }
 
     .starters, 
