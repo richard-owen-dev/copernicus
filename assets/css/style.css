@@ -236,9 +236,6 @@ footer {
     min-height: 50vh;
 }
 
-.visit  {
-    
-}
 
 .visit h2 {
     margin-bottom: 1.75em;
@@ -251,7 +248,7 @@ footer {
 }
 
 .map {
-    margin: 0 2em 3em 2em;
+    margin: 0 0 3em 0;
 }
 
 /*-----------------------reviews */
