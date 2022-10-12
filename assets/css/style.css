@@ -309,10 +309,12 @@ footer {
 
     .opening-times {
         min-height: 462.66px;
+        margin: 3em 1em 3em 2em;
     }
 
     .about {
         min-height: 462.66px;
+        margin: 3em 2em 3em 1em;
     }
 
     .about p {
