@@ -142,7 +142,7 @@ footer {
 /*-----------------------home */
 
 #home > div {
-    min-height: 90vh;
+    min-height: 60vh;
 }
 
 .opening-times {
