@@ -134,8 +134,14 @@ footer {
 
 /*-----------------------nav */
 
-.navbar {
+
+ul {
     list-style: none;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
 }
 
 
@@ -355,4 +361,10 @@ footer {
         min-height: 353.6px;
     }
 
+}
+
+@media only screen and (max-width: 768px) {
+    li {
+        display: block;
+    }
 }
