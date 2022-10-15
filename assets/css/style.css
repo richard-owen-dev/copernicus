@@ -99,21 +99,21 @@ footer {
 /*-----------------------images */
 
 .home {
-    background-image: url(../images/plated-dumplings.jpg);
+    background-image: url(../images/plated-dumplings.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #drinks {
-    background-image: url(../images/drinks.jpg);
+    background-image: url(../images/drinks.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #reviews {
-    background-image: url(../images/dumplings.jpg);
+    background-image: url(../images/dumplings.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
