@@ -324,6 +324,7 @@ footer {
     }
 
     .about p {
+        font-size: larger;
         padding: 7em 1em;
     }
 
