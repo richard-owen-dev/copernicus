@@ -117,7 +117,7 @@ These will portray the restaurant in a positive light and help persuade external
 
 ### **Contact info:**
 A phone number and email address so the client can be contacted.
-If any user wanted to enquire about addionl services such as parties they could pone or email the restaurant, as well as find out table availability.
+If any user wanted to enquire about additional services such as parties, they could phone or email the restaurant, as well as find out table availability.
 
 ![contact](assets/images/contact.png)
 
