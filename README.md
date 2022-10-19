@@ -143,9 +143,13 @@ I have used [w3c html validator](https://validator.w3.org/) which spotted a few 
 * My nabar had a closing tag for an unordered list but no start which i fixed by adding one
 * The Bootstrap JavaScript plugin had been place outside of the body element which fixed by moving them to be within the body element
 * It has flagged up a polish spelling of a food item because of the site using the “en” Unicode. I’ve ignore as the site is in english and the inclusion of polish words is for menu purposes 
-* Flagged up using an % attribute for my width and height for my google maps. But not using it doesn't display properly, so left as is.
+* Flagged up using an % attribute for my width and height for my google maps. Moved the styling out of the html and styled the iframe in the css file.
+
+![html validator](assets/images/html-validate.png)
 
 I Have used [w3c CSS validator](https://jigsaw.w3.org/css-validator/) with no errors found
+
+![css validator](assets/images/css-validate.png)
 
 I have used the [Lighthouse chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) to test the performance, accessibility, best practices and SEO. the website performance was quite low at 36/100 so i;
 * I compressed all images on site as they caused the most slowdown due to their file size.
