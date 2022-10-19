@@ -74,7 +74,9 @@ Heebo was chosen for its simple and easy to read design.
 ​
 ## **Features**
 ### **Navigation Bar:**
-A common way of navigating a web site that new users will instinctively know how to use
+A common way of navigating a web site that new users will instinctively know how to use.
+There is two vesions of the navbar, one in deskstop view and one in mobile view (that collapse into a burger menu).
+Also it will follow the user as the scroll up or down the webpage so they always have access to the navbar, hopfully making the user never feeling lost on the site.
 
 #### **Mobile Nav** 
 ![navbar mobile](assets/images/navsmall.png)
@@ -82,17 +84,19 @@ A common way of navigating a web site that new users will instinctively know how
 ![navbar desktop](assets/images/navfull.png)
 
 ### **Opening Times:**
-Shows the opening times of the restaurant 
+Shows the opening times of the restaurant so the user knows what time they can visit the restaurant and avoid dissapointment by turning up at closed times.
 
 ![opening times](assets/images/opening-times.png)
 
 ### **About:**
-A small blurb that is concise that lets the user know about the restaurant 
+A small blurb that is concise that lets the user know about the restaurant.
+This is one of the first thing that the user will see and should tell them exactly what type of business this is.
 
 ![about](assets/images/about.png)
 
 ### **Menus:**
-What food and drink is available, with its English and Polish names, with a brief description of each course 
+What food and drink is available, with its English and Polish names, with a brief description of each course.
+This should be easy to read and leaves no confusion of whats on offer.
 
 #### **Food** 
 ![food](assets/images/menu.png)
@@ -100,22 +104,26 @@ What food and drink is available, with its English and Polish names, with a brie
 ![drinks](assets/images/drinks-screenshot.png)
 
 ### **Loctaction:**
-Letting the user know how to find the restaurant with an address and a google map
+Letting the user know how to find the restaurant with an address and a google map.
+The google map can open up to a larger map where the user can use googles direction feature to get to the restaurant.
 
 ![location](assets/images/location.png)
 
 ### **Reviews:**
-A few positive reviews telling the user what previous customer thought
+A few positive reviews telling the user what previous customer thought.
+These will portray the restaurant in a positive light and help persuade external customers.
 
 ![reviews](assets/images/reviews.png)
 
 ### **Contact info:**
-A phone number and email address so the client can be contacted
+A phone number and email address so the client can be contacted.
+If any user wanted to enquire about addionl services such as parties they could pone or email the restaurant, as well as find out table availability.
 
 ![contact](assets/images/contact.png)
 
 ### **Links to social and external review website:**
-Links to their Facebook page and Tripadvior score
+Links to their Facebook page and Tripadvior score.
+The client likes to post alot of stuff on facebook and feels like its important to there marketing to get as many people folloing them on facebook, as well as people leaving tripadviors reviews.
 
 ![links](assets/images/external-links.png)
 
