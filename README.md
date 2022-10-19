@@ -156,6 +156,10 @@ I have used the [Lighthouse chrome extension](https://chrome.google.com/webstore
 * Additionally I converted all the background images from jpeg to webp to help loading times.
 In the end i've managed to increase the performance to 58/100
 
+Lighthouse flaged up that background and foreground colors do not have a sufficient contrast ratio with the navbar, after disscusion with the client it was agreed that visually the contrast was acceptable and they wanted to keep it as is for branding reasons.
+
+![links accessibility](assets/images/links-accessibility.png)
+
 ![screenshot-lighthouse](assets/images/lighthouse-screenshot.png)
 ​
 ​
