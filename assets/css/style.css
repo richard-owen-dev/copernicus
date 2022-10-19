@@ -157,11 +157,12 @@ li {
 }
 
 .opening-times h2 {
-    font-size: large;
+    font-size: larger;
+    font-weight: 600;
 }
 
 .opening-times p {
-    font-size: x-small;
+    font-size: small;
     font-weight: 600;
 }
 
@@ -310,7 +311,7 @@ footer {
 @media only screen and (min-width: 768px) {
     
     .opening-times p {
-        font-size: medium;
+        font-size: large;
     }
 
     .opening-times {
