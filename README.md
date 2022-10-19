@@ -1,6 +1,8 @@
 # **Copernicus**
 ## **Site Overview**
 Copernicus is a traditional Polish restaurant, located in Coventry. They are looking for a website being built to create an online presence which will attract customers while informing them of their location, opening times, and its menu.
+
+![screenshots of website](assets/images/screenshots-viewports.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
@@ -24,12 +26,12 @@ Copernicus’s target audiences are;
 ​
 ### **User Stories:**
 ​
-We envisage that the user will;
-* Want to see the content clearly
-* Want to navigate the page to find what I require quickly and easily
-* Want to learn more about what the business offers
-* Want to reach out and contact the business​
-* Want to know where the business is located​
+We envisage that;
+* "As a user i want to see the content clearly"
+* "As a user i want to navigate the page to find what I require quickly and easily"
+* "As a user i want to learn more about what the business offers"
+* "As a user i want to reach out and contact the business​"
+* "As a user i want to know where the business is located​"
 
 ​
 ### **Site Aims:**
@@ -135,7 +137,7 @@ In the end i've managed to increase the performance to 58/100
 
 Bugs i have came across;
 ​
-* Navbar not scrolling. This was because of being placed in a container. I move the code for the navbar just below the header.
+* Navbar not scrolling. This was because of being placed in a container. I moved the code for the navbar just below the header.
 
 * Bootstrap row no-gutter class not working. Opted to use bootstraps shorthand for padding 0 which is p-0
 

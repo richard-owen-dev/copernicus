@@ -58,13 +58,13 @@ a:hover {
 }
 
 .drinks h2 {
-    background-color: rgba(38, 36, 22, 0.5);
+    background-color: rgba(38, 36, 22, 0.8);
 }
 
 .soft-drinks,
 .hot-drinks,
 .alcohol {
-    background-color: rgba(38, 36, 22, 0.5);
+    background-color: rgba(38, 36, 22, 0.8);
 }
 
 .visit h2 {
