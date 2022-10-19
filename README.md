@@ -76,26 +76,48 @@ Heebo was chosen for its simple and easy to read design.
 ### **Navigation Bar:**
 A common way of navigating a web site that new users will instinctively know how to use
 
+#### **Mobile Nav** 
+![navbar mobile](assets/images/navsmall.png)
+#### **Descktop Nav** 
+![navbar desktop](assets/images/navfull.png)
+
 ### **Opening Times:**
 Shows the opening times of the restaurant 
+
+![opening times](assets/images/opening-times.png)
 
 ### **About:**
 A small blurb that is concise that lets the user know about the restaurant 
 
+![about](assets/images/about.png)
+
 ### **Menus:**
 What food and drink is available, with its English and Polish names, with a brief description of each course 
 
+#### **Food** 
+![food](assets/images/menu.png)
+#### **Drinks** 
+![drinks](assets/images/drinks-screenshot.png)
+
 ### **Loctaction:**
-Letter the user know how to find the restaurant with an address and a google map
+Letting the user know how to find the restaurant with an address and a google map
+
+![location](assets/images/location.png)
 
 ### **Reviews:**
 A few positive reviews telling the user what previous customer thought
 
+![reviews](assets/images/reviews.png)
+
 ### **Contact info:**
 A phone number and email address so the client can be contacted
 
+![contact](assets/images/contact.png)
+
 ### **Links to social and external review website:**
 Links to their Facebook page and Tripadvior score
+
+![links](assets/images/external-links.png)
 
 ## **Future-Enhancements**
 ### **​Polish language option:**
