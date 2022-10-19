@@ -153,7 +153,7 @@ li {
 
 .opening-times {
     margin: 3rem 0 0 2rem;
-    padding: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
 }
 
 .opening-times h2 {
@@ -168,7 +168,7 @@ li {
 
 .about {
     margin: 3em 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
     text-align: center;
 }
 
@@ -188,18 +188,18 @@ li {
 
 .eat h2 {
     margin-bottom: 1.75em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .starters, 
 .mains {
     margin: 0 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .desserts {
     margin: 0 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 /*-----------------------drinks */
@@ -218,18 +218,18 @@ li {
 
 .drinks h2 {
     margin-bottom: 1.75em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .soft-drinks,
 .hot-drinks {
     margin: 0 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .alcohol {
     margin: 0 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 /*-----------------------address */
@@ -246,12 +246,12 @@ li {
 
 .visit h2 {
     margin-bottom: 1.75em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .address {
     margin: 0 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 
@@ -272,12 +272,12 @@ iframe {
 
 .reviews {
     margin: 8em 2em 3em 2em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 .reviews-heading {
     margin-bottom: 1.75em;
-    padding: 1em 1em 1em 1em;
+    padding: 1em;
 }
 
 /*-----------------------footer */
@@ -293,7 +293,7 @@ footer {
 .registered-address,
 .email,
 .external-links {
-    padding: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
 }
 
 .registered-address h3,
