@@ -195,7 +195,7 @@ I deployed the page on GitHub pages via the following procedure: -
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You  can find the live site via the following URL - [live webpage](https://yoururlhere)
+You  can find the live site via the following URL - [live webpage](https://richard-owen-dev.github.io/copernicus/)
 ***
 ​
 ## **Tech**
