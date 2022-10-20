@@ -52,7 +52,7 @@ After talking to the Client, we determined the website should;
 With input from the client, I came up with these Wireframes and colour Palette
 The wireframes was created using Balsamiq, and additional design choices were made during the development process to look better in live environments.
 
-#### Desktop Wireframe: 
+#### Desktop and Tablet Wireframe: 
 ![desktop wirefram](assets/images/wireframe-desktop.png)
 
 #### Mobile Wireframe:
@@ -139,13 +139,13 @@ The ability to reserve a table via an online booking calendar
 Chrome dev tools and multiple devices such as android phone, android tablet and iphone, were used to test responsiveness of the website.
 ### **Functionality:**
 Going through each feature one by one i tested;
-	Navebar scrolls with page
-	Navbar is responsive and turns into a collapsible button 
-	Navbar button collapses
-	Each link works when clicked 
-	Each external link opens up in a new tab
-	Google maps allows larger maps
-	Google’s larger map opens up in new tab
+* Navebar scrolls with page
+* Navbar is responsive and turns into a collapsible button 
+* Navbar button collapses
+* Each link works when clicked 
+* Each external link opens up in a new tab
+* Google maps allows larger maps
+* Google’s larger map opens up in new tab
 ### **Validators:**
 I have used [w3c html validator](https://validator.w3.org/) which spotted a few issues i need to clean up;
 * My nabar had a closing tag for an unordered list but no start which i fixed by adding one
@@ -162,13 +162,13 @@ I Have used [w3c CSS validator](https://jigsaw.w3.org/css-validator/) with no er
 I have used the [Lighthouse chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) to test the performance, accessibility, best practices and SEO. the website performance was quite low at 36/100 so i;
 * I compressed all images on site as they caused the most slowdown due to their file size.
 * Additionally I converted all the background images from jpeg to webp to help loading times.
-In the end i've managed to increase the performance to 58/100
+In the end i've managed to increase the performance to 71/100
 
-Lighthouse flaged up that background and foreground colors do not have a sufficient contrast ratio with the navbar, after disscusion with the client it was agreed that visually the contrast was acceptable and they wanted to keep it as is for branding reasons.
+Lighthouse flaged up that background and foreground colors do not have a sufficient contrast ratio with the navbar, after disscusion with the client it was agreed that visually the contrast was acceptable and they wanted to keep it for branding reasons.
 
 ![links accessibility](assets/images/links-accessibility.png)
 
-![screenshot-lighthouse](assets/images/lighthouse-screenshot.png)
+![lighthouse](assets/images/lighthouse.png)
 ​
 ​
 ## **Bugs**
